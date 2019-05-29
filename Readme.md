@@ -9,7 +9,7 @@ DatastoreのPythonAPIは一発で何件データを引っ張ってこれるか�
 
 ## 動かし方
 
-1. [ここ]<http://compling.hss.ntu.edu.sg/wnja/index.ja.html>から日本語データベースをDLして解凍する。
+1. [ここ](http://compling.hss.ntu.edu.sg/wnja/index.ja.html)から日本語データベースをDLして解凍する。
 2. Datastoreへの読み書きが可能な(ユーザ権限を持った)クレデンシャルファイルを`credential.json`として配置
 3. `pipenv install`
 4. `pipenv run python ./main.py` で起動
