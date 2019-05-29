@@ -1,0 +1,7 @@
+.cache
+.pyc
+*.lock
+.venv
+
+.vscode
+
